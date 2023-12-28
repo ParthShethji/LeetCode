@@ -1,35 +1,83 @@
-import java.util.Arrays;
+class Solution {
+    // Approach 1
+    int result = Integer.MAX_VALUE;
+    // public int getLengthOfOptimalCompression(String s, int k) {
+    //     List<Integer> data = new ArrayList<>();
+    //     int count = 1;
+    //     for(int i = 1; i < s.length(); i++) {
+    //         if(s.charAt(i) == s.charAt(i-1)) {
+    //             count++;
+    //         }
+    //         else {
+    //             data.add(count);
+    //             count = 1;
+    //         }
+    //     }
+    //     data.add(count);
+    //     Collections.sort(data);
+    //     backtracking(data, 0, k);
+    //     return result;
+    // }
 
-public class Solution {
-    private int[][] memo = new int[101][101];
-
-    private int recursion(String s, int i, int K) {
-        int n = s.length();
-        int k = K;
-        if (n - i <= k) {
-            return 0;
+    private void backtracking(List<Integer> data , int index, int k) {
+        if(index == data.size() || k == 0) {
+            int result1 = 0;
+            for(int i = 0; i < data.size(); i++) {
+                if(data.get(i)==0) {
+                    continue;
+                }
+                else {
+                    result1 += (1+ ((data.get(i) != 1) ? String.valueOf(data.get(i)).length() : 0));
+                }
+            }
+            result = Math.min(result, result1);
+            return;
         }
-        if (memo[i][k] != -1) {
-            return memo[i][k];
-        }
-
-        int ans = k > 0 ? recursion(s, i + 1, k - 1) : 101;
-        int c = 1;
-        for (int j = i + 1; j <= n; j++) {
-            ans = Math.min(ans, 1 + ((c > 99) ? 3 : (c > 9) ? 2 : (c > 1) ? 1 : 0) + recursion(s, j, k));
-            if (j < n && s.charAt(i) == s.charAt(j)) {
-                c++;
-            } else if (--k < 0) {
-                break;
+        for(int i = 0; i <= Math.min(k,data.get(index)); i++) {
+            if(k-i>=0) {
+                int count = data.get(index);
+                data.set(index, count - i);
+                backtracking(data, index+1,k-i);
+                data.set(index, count+i);
             }
         }
-        return memo[i][K] = ans;
     }
 
+    // Approach 2
+    private int[][] dp;
+    private char[] chars;
+    private int n;
+    
     public int getLengthOfOptimalCompression(String s, int k) {
-        for (int[] row : memo) {
+        this.chars = s.toCharArray();
+        this.n = s.length();
+        this.dp = new int[n][k+1];
+        for (int[] row: dp) {
             Arrays.fill(row, -1);
         }
-        return recursion(s, 0, k);
+        return dp(0, k);
+    }
+    
+    private int dp(int i, int k) {
+        if (k < 0) return n;
+        if (n <= i + k) return 0;
+        
+        int result = dp[i][k];
+        if (result != -1) return result; 
+        result = dp(i + 1, k - 1);
+        int length = 0, same = 0, diff = 0;
+        
+        for (int j=i; j < n && diff <= k; j++) {
+            
+            if (chars[j] == chars[i]) {
+                same++;
+                if (same <= 2 || same == 10 || same == 100) length++;
+            } else {
+                diff++; 
+            }
+            result = Math.min(result, length + dp(j + 1, k - diff)); 
+        }
+        dp[i][k] = result;
+        return result;
     }
 }
