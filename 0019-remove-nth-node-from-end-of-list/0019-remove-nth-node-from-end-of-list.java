@@ -7,7 +7,7 @@ class Solution {
             return null;
         }
         ListNode node = removeNthFromEnd(head.next, n);
-        count++; // Once the function calls start returning, start counting
+        count++;
 
         if (count == n) {
             return node;
