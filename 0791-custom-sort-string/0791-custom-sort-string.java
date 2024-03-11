@@ -1,19 +1,27 @@
 class Solution {
     public String customSortString(String order, String s) {
         StringBuilder ans = new StringBuilder();
-        HashMap<Character, Integer> map = new HashMap<>();
-        for(char c: s.toCharArray()){
-            map.put(c, map.getOrDefault(c, 0)+1);
+        int[] frequency = new int[26]; // Assuming only lowercase letters
+        
+        // Count the frequency of each character in s
+        for (char c : s.toCharArray()) {
+            frequency[c - 'a']++;
         }
         
-        for(char c: order.toCharArray()){
-            if(map.containsKey(c)){
-                ans.append(String.valueOf(c).repeat(Math.max(0, map.get(c))));
-                map.remove(c);
+        // Append characters in the order specified by 'order'
+        for (char c : order.toCharArray()) {
+            while (frequency[c - 'a'] > 0) {
+                ans.append(c);
+                frequency[c - 'a']--;
             }
         }
-        for(char c: map.keySet()){
-            ans.append(String.valueOf(c).repeat(Math.max(0, map.get(c))));
+        
+        // Append remaining characters not present in 'order'
+        for (char c = 'a'; c <= 'z'; c++) {
+            while (frequency[c - 'a'] > 0) {
+                ans.append(c);
+                frequency[c - 'a']--;
+            }
         }
         
         return ans.toString();
