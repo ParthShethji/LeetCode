@@ -3,13 +3,8 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        ptr = 0
-        n = len(s)
-        while ptr < n // 2:
-            self.swap(s, ptr, n - ptr - 1)
-            ptr += 1
-    
-    def swap(self, s: List[str], a: int, b: int) -> None:
-        temp = s[a]
-        s[a] = s[b]
-        s[b] = temp
+        left, right = 0, len(s) - 1
+        while left < right:
+            s[left], s[right] = s[right], s[left]
+            left += 1
+            right -= 1
