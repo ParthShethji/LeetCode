@@ -1,61 +1,29 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
-
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        int carry = 0;
-        ListNode l3 = new ListNode();
-        ListNode pointer = l3;
-        while(l1 != null || l2 != null || carry != 0){
-            int l1Val;
-            int l2Val;
+        ListNode dummy = new ListNode(0);
+        ListNode ans = dummy;
+        int prevCarry = 0;
 
-            if(l1 == null){
-                l1Val = 0;
-            }else{
-                l1Val = l1.val;
-            }
-            if(l2 == null){
-                l2Val = 0;
-            }else{
-                l2Val = l2.val;
-            }
-
-            int sum = l1Val + l2Val + carry;
-            if(sum>9){
-                carry = 1;
-                sum = sum%10;
-            }else{
-                carry = 0;
-            }
-
-            pointer.val = sum;
-
-            
-            if(l1 != null && l1.next != null){
+        while (l1 != null || l2 != null) {
+            int sum = prevCarry;
+            if (l1 != null) {
+                sum += l1.val;
                 l1 = l1.next;
-            }else{
-                l1 = null;
             }
-            if(l2 != null && l2.next != null){
+            if (l2 != null) {
+                sum += l2.val;
                 l2 = l2.next;
-            }else{
-                l2 = null;
-            }
-            if(l1 != null || l2 != null || carry != 0){
-                pointer.next = new ListNode();
-                pointer = pointer.next;
             }
 
+            ans.next = new ListNode(sum % 10);
+            prevCarry = sum / 10;
+            ans = ans.next;
         }
-        return l3;
-    } 
+
+        if (prevCarry > 0) {
+            ans.next = new ListNode(prevCarry);
+        }
+
+        return dummy.next;
+    }
 }
