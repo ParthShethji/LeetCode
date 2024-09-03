@@ -1,26 +1,41 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode slow = head, fast = head, prev, temp;
+        if (head == null || head.next == null) {
+            return true;
+        }
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        // Find the middle of the linked list
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        prev = slow;
-        slow = slow.next;
-        prev.next = null;
-        while (slow != null) {
-            temp = slow.next;
-            slow.next = prev;
-            prev = slow;
-            slow = temp;
+
+        slow = reverseList(slow);
+
+        ListNode firstHalf = head;
+        ListNode secondHalf = slow;
+        while (secondHalf != null) {
+            if (firstHalf.val != secondHalf.val) {
+                return false;
+            }
+            firstHalf = firstHalf.next;
+            secondHalf = secondHalf.next;
         }
-        fast = head;
-        slow = prev;
-        while (slow != null) {
-            if (fast.val != slow.val) return false;
-            fast = fast.next;
-            slow = slow.next;
-        }
+
         return true;
+    }
+
+    ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        while (head != null) {
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
+        }
+        return prev;
     }
 }
