@@ -1,43 +1,31 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || k == 0) {
+        if (head == null || head.next == null || k == 0) {
             return head;
         }
 
-        // Find the length of the linked list
-        int count = 1;
-        ListNode tail = head;
-        while (tail.next != null) {
-            count++;
-            tail = tail.next;
+        // Count the number of nodes in the list
+        ListNode temp = head;
+        int length = 1;  // Start from 1 since we're already at head
+        while (temp.next != null) {
+            length++;
+            temp = temp.next;
         }
 
-        // Adjust k to be within the length of the linked list
-        k = k % count;
-        if (k == 0) {
-            return head; // No rotation needed
+        // Make the list circular
+        temp.next = head;
+
+        // Calculate the actual number of rotations needed
+        k = k % length;
+        int stepsToNewHead = length - k;
+        temp = head;
+        for (int i = 0; i < stepsToNewHead - 1; i++) {
+            temp = temp.next;
         }
 
-        // Find the new tail (the node at position count - k)
-        ListNode newTail = head;
-        for (int i = 1; i < count - k; i++) {
-            newTail = newTail.next;
-        }
-
-        // Rotate the list
-        ListNode newHead = newTail.next;
-        newTail.next = null;
-        tail.next = head;
+        // Break the circle and set the new head
+        ListNode newHead = temp.next;
+        temp.next = null;
 
         return newHead;
     }
