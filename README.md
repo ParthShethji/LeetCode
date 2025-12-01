@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ParthShethji/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ParthShethji/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ParthShethji/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ParthShethji/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ParthShethji/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ParthShethji/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ParthShethji/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+## Sorting
+|  |
+| ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 <!---LeetCode Topics End-->
