@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ParthShethji/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ParthShethji/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ParthShethji/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ParthShethji/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ParthShethji/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/ParthShethji/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ParthShethji/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ParthShethji/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ParthShethji/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ParthShethji/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3606-coupon-code-validator](https://github.com/ParthShethji/LeetCode/tree/master/3606-coupon-code-validator) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ParthShethji/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ParthShethji/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ParthShethji/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ParthShethji/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
