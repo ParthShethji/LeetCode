@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ParthShethji/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ParthShethji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ParthShethji/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ParthShethji/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ParthShethji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2054-two-best-non-overlapping-events](https://github.com/ParthShethji/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ParthShethji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 ## Brainteaser
 |  |
