@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ParthShethji/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ParthShethji/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ParthShethji/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ParthShethji/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ParthShethji/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ParthShethji/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ParthShethji/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ParthShethji/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3583-count-special-triplets](https://github.com/ParthShethji/LeetCode/tree/master/3583-count-special-triplets) |
 ## Enumeration
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ParthShethji/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2054-two-best-non-overlapping-events](https://github.com/ParthShethji/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/ParthShethji/LeetCode/tree/master/2092-find-all-people-with-secret) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
