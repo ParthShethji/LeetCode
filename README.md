@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ParthShethji/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ParthShethji/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ParthShethji/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ParthShethji/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ParthShethji/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ParthShethji/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ParthShethji/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ParthShethji/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ParthShethji/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ParthShethji/LeetCode/tree/master/1390-four-divisors) |
 | [1925-count-square-sum-triples](https://github.com/ParthShethji/LeetCode/tree/master/1925-count-square-sum-triples) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ParthShethji/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ParthShethji/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ParthShethji/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -272,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ParthShethji/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ParthShethji/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
