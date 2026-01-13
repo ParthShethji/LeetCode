@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ParthShethji/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ParthShethji/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/ParthShethji/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ParthShethji/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthShethji/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ParthShethji/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ParthShethji/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Union Find
 |  |
