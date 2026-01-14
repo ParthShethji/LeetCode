@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/ParthShethji/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/ParthShethji/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/ParthShethji/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/ParthShethji/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ParthShethji/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ParthShethji/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ParthShethji/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ParthShethji/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/ParthShethji/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/ParthShethji/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -295,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ParthShethji/LeetCode/tree/master/0274-h-index) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ParthShethji/LeetCode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ParthShethji/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
