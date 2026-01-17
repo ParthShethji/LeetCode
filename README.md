@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ParthShethji/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ParthShethji/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthShethji/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ParthShethji/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ParthShethji/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/ParthShethji/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/ParthShethji/LeetCode/tree/master/3453-separate-squares-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ParthShethji/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ParthShethji/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ParthShethji/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ParthShethji/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3433-count-mentions-per-user](https://github.com/ParthShethji/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ParthShethji/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ParthShethji/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ParthShethji/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ParthShethji/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ParthShethji/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Two Pointers
 |  |
