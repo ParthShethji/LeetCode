@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/ParthShethji/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ParthShethji/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ParthShethji/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthShethji/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/ParthShethji/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ParthShethji/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/ParthShethji/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ParthShethji/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ParthShethji/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthShethji/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ParthShethji/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ParthShethji/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ParthShethji/LeetCode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthShethji/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/ParthShethji/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/ParthShethji/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ParthShethji/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ParthShethji/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthShethji/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Brainteaser
 |  |
 | ------- |
