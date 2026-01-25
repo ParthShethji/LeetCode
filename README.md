@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthShethji/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/ParthShethji/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ParthShethji/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ParthShethji/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ParthShethji/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ParthShethji/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ParthShethji/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ParthShethji/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ParthShethji/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ParthShethji/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthShethji/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ParthShethji/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/ParthShethji/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/ParthShethji/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
