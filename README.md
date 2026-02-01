@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthShethji/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ParthShethji/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ParthShethji/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ParthShethji/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ParthShethji/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ParthShethji/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ParthShethji/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/ParthShethji/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ParthShethji/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ParthShethji/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Matrix
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/ParthShethji/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ParthShethji/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ParthShethji/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ParthShethji/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ParthShethji/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/ParthShethji/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/ParthShethji/LeetCode/tree/master/3606-coupon-code-validator) |
