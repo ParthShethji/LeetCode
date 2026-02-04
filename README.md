@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/ParthShethji/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ParthShethji/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ParthShethji/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3640-trionic-array-ii](https://github.com/ParthShethji/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ParthShethji/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ParthShethji/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bit Manipulation
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ParthShethji/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ParthShethji/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ParthShethji/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/ParthShethji/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Greedy
 |  |
 | ------- |
