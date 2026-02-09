@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ParthShethji/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ParthShethji/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ParthShethji/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ParthShethji/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/ParthShethji/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ParthShethji/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ParthShethji/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ParthShethji/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ParthShethji/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ParthShethji/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ParthShethji/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ParthShethji/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ParthShethji/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ParthShethji/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ParthShethji/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/ParthShethji/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -408,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ParthShethji/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ParthShethji/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ParthShethji/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ParthShethji/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
