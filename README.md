@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ParthShethji/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ParthShethji/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ParthShethji/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ParthShethji/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ParthShethji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ParthShethji/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ParthShethji/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthShethji/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ParthShethji/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ParthShethji/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParthShethji/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ParthShethji/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ParthShethji/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthShethji/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ParthShethji/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ParthShethji/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3379-transformed-array](https://github.com/ParthShethji/LeetCode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/ParthShethji/LeetCode/tree/master/3433-count-mentions-per-user) |
