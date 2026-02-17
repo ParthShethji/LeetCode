@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/ParthShethji/LeetCode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/ParthShethji/LeetCode/tree/master/0401-binary-watch) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ParthShethji/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ParthShethji/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ParthShethji/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/ParthShethji/LeetCode/tree/master/0401-binary-watch) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ParthShethji/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
 |  |
