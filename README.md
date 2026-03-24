@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ParthShethji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ParthShethji/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParthShethji/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ParthShethji/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/ParthShethji/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ParthShethji/LeetCode/tree/master/0125-valid-palindrome) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ParthShethji/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ParthShethji/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ParthShethji/LeetCode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ParthShethji/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ParthShethji/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ParthShethji/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ParthShethji/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ParthShethji/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthShethji/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ParthShethji/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ParthShethji/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
