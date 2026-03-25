@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ParthShethji/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ParthShethji/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ParthShethji/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ParthShethji/LeetCode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ParthShethji/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/ParthShethji/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ParthShethji/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthShethji/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/ParthShethji/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ParthShethji/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/ParthShethji/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ParthShethji/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/ParthShethji/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ParthShethji/LeetCode/tree/master/0068-text-justification) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ParthShethji/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ParthShethji/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3379-transformed-array](https://github.com/ParthShethji/LeetCode/tree/master/3379-transformed-array) |
