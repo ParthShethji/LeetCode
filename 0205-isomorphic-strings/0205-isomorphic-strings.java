@@ -1,23 +1,23 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        int[] indexS = new int[200]; // Stores index of characters in string s
-        int[] indexT = new int[200]; // Stores index of characters in string t
-        
-        int len = s.length();
-                if(len != t.length()) {
-            return false;
-        }
-        
-        for(int i = 0; i < len; i++) {
-            if(indexS[s.charAt(i)] != indexT[t.charAt(i)]) {
-                return false; // If different, strings are not isomorphic
+        HashMap<Character, Character> map = new HashMap<>();
+        HashMap<Character, Character> reverse = new HashMap<>();
+        for(int i=0; i<s.length(); i++){
+            Character t_char = t.charAt(i);
+            Character s_char = s.charAt(i);
+            if(map.containsKey(s_char)){
+                if(map.get(s_char)!=t_char){
+                    return false;
+                }
             }
-            
-            // Update the indices of characters in both strings
-            indexS[s.charAt(i)] = i + 1; // updating index of current character
-            indexT[t.charAt(i)] = i + 1; // updating index of current character
+            else{
+                if(reverse.containsKey(t_char)){
+                    return false;
+                }
+                map.put(s_char,t_char);
+                reverse.put(t_char,s_char);
+            }
         }
-        
         return true;
     }
 }
