@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ParthShethji/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/ParthShethji/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ParthShethji/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ParthShethji/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ParthShethji/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ParthShethji/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ParthShethji/LeetCode/tree/master/0066-plus-one) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ParthShethji/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParthShethji/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthShethji/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/ParthShethji/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ParthShethji/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ParthShethji/LeetCode/tree/master/0068-text-justification) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ParthShethji/LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthShethji/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ParthShethji/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/ParthShethji/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ParthShethji/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ParthShethji/LeetCode/tree/master/0290-word-pattern) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ParthShethji/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ParthShethji/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ParthShethji/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/ParthShethji/LeetCode/tree/master/0274-h-index) |
