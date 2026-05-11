@@ -13,32 +13,45 @@
  *     }
  * }
  */
+
 class Solution {
+
+    HashMap<Integer, Integer> map = new HashMap<>();
+    int preIndex = 0;
+    int[] preorder;
+
+    private TreeNode helper(int inLeft, int inRight) {
+
+        // no nodes in this subtree
+        if (inLeft > inRight) {
+            return null;
+        }
+
+        // current root from preorder
+        int rootVal = preorder[preIndex++];
+        TreeNode root = new TreeNode(rootVal);
+
+        // find root in inorder
+        int mid = map.get(rootVal);
+
+        // build left subtree
+        root.left = helper(inLeft, mid - 1);
+
+        // build right subtree
+        root.right = helper(mid + 1, inRight);
+
+        return root;
+    }
+
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-            Map < Integer, Integer > inMap = new HashMap < Integer, Integer > ();
 
-    for (int i = 0; i < inorder.length; i++) {
-      inMap.put(inorder[i], i);
+        this.preorder = preorder;
+
+        // store inorder indexes
+        for (int i = 0; i < inorder.length; i++) {
+            map.put(inorder[i], i);
+        }
+
+        return helper(0, inorder.length - 1);
     }
-
-    TreeNode root = buildTree(preorder, 0, preorder.length - 1, inorder, 0, 
-    inorder.length - 1, inMap);
-    return root;
-    }
-    
-      static TreeNode buildTree(int[] preorder, int preStart, int preEnd, int[]
-  inorder, int inStart, int inEnd, Map < Integer, Integer > inMap) {
-    if (preStart > preEnd || inStart > inEnd) return null;
-
-    TreeNode root = new TreeNode(preorder[preStart]);
-    int inRoot = inMap.get(root.val);
-    int numsLeft = inRoot - inStart;
-
-    root.left = buildTree(preorder, preStart + 1, preStart + numsLeft, inorder, 
-    inStart, inRoot - 1, inMap);
-    root.right = buildTree(preorder, preStart + numsLeft + 1, preEnd, inorder, 
-    inRoot + 1, inEnd, inMap);
-
-    return root;
-  }
 }
