@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ParthShethji/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ParthShethji/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ParthShethji/LeetCode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/ParthShethji/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ParthShethji/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ParthShethji/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ParthShethji/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthShethji/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ParthShethji/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ParthShethji/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ParthShethji/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ParthShethji/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ParthShethji/LeetCode/tree/master/0202-happy-number) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ParthShethji/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ParthShethji/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ParthShethji/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ParthShethji/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ParthShethji/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ParthShethji/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
