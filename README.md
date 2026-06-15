@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ParthShethji/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ParthShethji/LeetCode/tree/master/0455-assign-cookies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ParthShethji/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthShethji/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ParthShethji/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ParthShethji/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ParthShethji/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ParthShethji/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ParthShethji/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ParthShethji/LeetCode/tree/master/0799-champagne-tower) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthShethji/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ParthShethji/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ParthShethji/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ParthShethji/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ParthShethji/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ParthShethji/LeetCode/tree/master/0190-reverse-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthShethji/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/ParthShethji/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ParthShethji/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ParthShethji/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -578,4 +581,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ParthShethji/LeetCode/tree/master/0148-sort-list) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthShethji/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ParthShethji/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
