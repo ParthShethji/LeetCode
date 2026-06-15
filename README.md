@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ParthShethji/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ParthShethji/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ParthShethji/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ParthShethji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ParthShethji/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ParthShethji/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ParthShethji/LeetCode/tree/master/0056-merge-intervals) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParthShethji/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ParthShethji/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ParthShethji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ParthShethji/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/ParthShethji/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParthShethji/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ParthShethji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ParthShethji/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/ParthShethji/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ParthShethji/LeetCode/tree/master/0169-majority-element) |
