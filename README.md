@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ParthShethji/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ParthShethji/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ParthShethji/LeetCode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/ParthShethji/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ParthShethji/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ParthShethji/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ParthShethji/LeetCode/tree/master/0068-text-justification) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ParthShethji/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ParthShethji/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ParthShethji/LeetCode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/ParthShethji/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ParthShethji/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ParthShethji/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ParthShethji/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ParthShethji/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ParthShethji/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ParthShethji/LeetCode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/ParthShethji/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ParthShethji/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ParthShethji/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/ParthShethji/LeetCode/tree/master/0120-triangle) |
